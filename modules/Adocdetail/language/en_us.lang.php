@@ -9,13 +9,26 @@
  ************************************************************************************/
 
 $mod_strings = Array(
-	'ModuleName' => 'Adoc detail',
-	'SINGLE_ModuleName' => 'Adoc detail',
-	'ModuleName ID' => 'Adoc detail ID',
-
-	'LBL_CUSTOM_INFORMATION' => 'Custom Information',
-	'LBL_MODULEBLOCK_INFORMATION' => 'Adoc detail Information',
-
+	'Adocdetail' => 'Adocdetail',
+	'SINGLE_Adocdetail' => 'Adocdetail',
+	'Adocdetail ID' => 'Adocdetail ID',
+        'LBL_CUSTOM_INFORMATION' => 'Custom Information',
+	'LBL_MODULEBLOCK_INFORMATION' => 'ModuleBlock Information',
+        'LBL_DESCRIPTION_INFORMATION'=>'Informazioni descrittive',
+        'ModuleFieldLabel' => 'ModuleFieldLabel Text',
+        'Adocdetail Name'=>'Nome Adocdetail',
+        'Description'=>'Descrizione',
+        'Quantity'=>'Quantita',
+        'PO Supplier'=>'PO Fornitore',
+        'Modified Time'=>'Tempo modificazione',
+        'Created Time'=>'Tempo creazione',
+        'Tax'=>'Tassa',
+        'Total'=>'Totale',
+        'Information'=>'Informazioni',
+        'Product'=>'Prodotto',
+        'Assigned To'=>'Assegnato a',
+        'Price'=>'Prezzo',
+        'Unit price total'=>'Totale prezzo articolo'
 );
 
 ?>

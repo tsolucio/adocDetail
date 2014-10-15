@@ -9,18 +9,36 @@
  ************************************************************************************/
 
 $mod_strings = Array(
+	//blocks
 	'Adocdetail' => 'Adocdetail',
-	'SINGLE_Adocdetail' => 'Adocdetail',
-	'Adocdetail ID' => 'Adocdetail ID',
-        'LBL_CUSTOM_INFORMATION' => 'Custom Information',
-	'LBL_MODULEBLOCK_INFORMATION' => 'ModuleBlock Information',
-        'LBL_DESCRIPTION_INFORMATION'=>'Description Information',
-        'ModuleFieldLabel' => 'ModuleFieldLabel Text',
-        'Codice Articolo'=>'Item Code',
-        'Nota'=>'Note',
+        'SINGLE_Adocdetail' => 'Adocdetail',
+        'Information'=>'Information',
+	'LBL_CUSTOM_INFORMATION' => 'Custom Information',
+	'LBL_DESCRIPTION_INFORMATION'=>'Description Information',
+        //fields 
+        'AdocdetailNo'=>'AdocdetailNo',
+        'Line Nr'=>'Line Nr',
+        'Product'=>'Product',
+        'Price'=>'Price',
+        'PO Supplier'=>'PO Supplier',
+        'Assigned To'=>'Assigned To',
+        'Modified Time'=>'Modified Time',
         'Chiamata'=>'Project',
+        'Unit price total'=>'Unit price total',
+        'Nota'=>'Note',
+        'Adocdetail Name'=>'Adocdetail Name',
+        'Adoc master'=>'Adoc master',
+        'Quantity'=>'Quantity',
+        'INOUTDocNr'=>'INOUTDocNr',
         'Riferimento'=>'Reference',
+        'Created Time'=>'Created Time',
         'Adocdetail Chiave Field'=>'Adocdetail Key Field',
+        'Tax'=>'Tax',
+        'Total'=>'Total',
+        'Codice Articolo'=>'Item Code',
+        'Description'=>'Description',
+        'PO Teknema'=>'PO Teknema',
+        'PO Supplier'=>'PO Supplier',
 );
 
 ?>

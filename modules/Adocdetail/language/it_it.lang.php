@@ -9,26 +9,37 @@
 - ************************************************************************************/
 
 $mod_strings = Array(
+	 //blocks
 	'Adocdetail' => 'Adocdetail',
-	'SINGLE_Adocdetail' => 'Adocdetail',
-	'Adocdetail ID' => 'Adocdetail ID',
-        'LBL_CUSTOM_INFORMATION' => 'Custom Information',
-	'LBL_MODULEBLOCK_INFORMATION' => 'ModuleBlock Information',
-        'LBL_DESCRIPTION_INFORMATION'=>'Informazioni descrittive',
-        'ModuleFieldLabel' => 'ModuleFieldLabel Text',
-        'Adocdetail Name'=>'Nome Adocdetail',
-        'Description'=>'Descrizione',
-        'Quantity'=>'Quantita',
+        'SINGLE_Adocdetail' => 'Adocdetail',
+        'Information'=>'Informazione',
+	'LBL_CUSTOM_INFORMATION' => 'Informazioni Personalizzate',
+	'LBL_DESCRIPTION_INFORMATION'=>'Informazioni Descrittive',
+        //fields 
+        'AdocdetailNo'=>'AdocdetailNo',
+        'Line Nr'=>'Linea Nr',
+        'Product'=>'Prodotto',
+        'Price'=>'Prezzo',
         'PO Supplier'=>'PO Fornitore',
+        'Assigned To'=>'Assegnato a',
         'Modified Time'=>'Tempo modificazione',
+        'Chiamata'=>'Chiamata',
+        'Unit price total'=>'Totale prezzo articolo',
+        'Nota'=>'Nota',
+        'Adocdetail Name'=>'Nome Adocdetail',
+        'Adoc master'=>'Adoc master',
+        'Quantity'=>'Quantita',
+        'INOUTDocNr'=>'INOUTDocNr',
+        'Riferimento'=>'Riferimento',
         'Created Time'=>'Tempo creazione',
+        'Adocdetail Chiave Field'=>'Adocdetail Chiave Field',
         'Tax'=>'Tassa',
         'Total'=>'Totale',
-        'Information'=>'Informazioni',
-        'Product'=>'Prodotto',
-        'Assigned To'=>'Assegnato a',
-        'Price'=>'Prezzo',
-        'Unit price total'=>'Totale prezzo articolo'
+        'Codice Articolo'=>'Codice Articolo',
+        'Description'=>'Descrizione',
+        'PO Teknema'=>'PO Teknema',
+        'PO Supplier'=>'PO Fornitore',
+        
 );
 
 ?>

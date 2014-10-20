@@ -9,13 +9,35 @@
  ************************************************************************************/
 
 $mod_strings = Array(
-	'ModuleName' => 'Module Name',
-	'SINGLE_ModuleName' => 'Module Name',
-	'ModuleName ID' => 'Module Name ID',
-
+	'Adocdetail' => 'Detalle ADOC',
+	'SINGLE_Adocdetail' => 'Detalle ADOC',
+	'Adocdetail ID' => 'ID Detalle ADOC',
+	'Information'=>'Información',
 	'LBL_CUSTOM_INFORMATION' => 'Información Personalizada',
-	'LBL_MODULEBLOCK_INFORMATION' => 'Información ModuleName',
-	'LBL_DESCRIPTION_INFORMATION' => 'Descripción',
+	'LBL_DESCRIPTION_INFORMATION'=>'Descripción',
+	//fields 
+	'AdocdetailNo'=>'Nº Detalle ADOC',
+	'Line Nr'=>'Nº Línea',
+	'Product'=>'Producto',
+	'Price'=>'Precio',
+	'Assigned To'=>'Asignado a',
+	'Modified Time'=>'Fecha Modificación',
+	'Chiamata'=>'Proyecto',
+	'Unit price total'=>'Total Precio Unitario',
+	'Nota'=>'Nota',
+	'Adocdetail Name'=>'Nombre Detalle ADOC',
+	'Adoc master'=>'Cabecera ADOC',
+	'Quantity'=>'Cantidad',
+	'INOUTDocNr'=>'Nº Entrada/Salida',
+	'Riferimento'=>'Referencia',
+	'Created Time'=>'Fecha Creación',
+	'Adocdetail Chiave Field'=>'Clave Detalle ADOC',
+	'Tax'=>'Impuesto',
+	'Total'=>'Total',
+	'Codice Articolo'=>'Código Elemento',
+	'Description'=>'Descripción',
+	'PO Teknema'=>'OV Interno',
+	'PO Supplier'=>'OV Proveedor',
 
 );
 

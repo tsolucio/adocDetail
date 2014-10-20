@@ -320,7 +320,7 @@
 <masseditable>1</masseditable>
 </field>
 <field>
-<fieldname>CreatedTime</fieldname>
+<fieldname>createdtime</fieldname>
 <uitype>70</uitype>
 <columnname>createdtime</columnname>
 <tablename>vtiger_crmentity</tablename>
@@ -340,7 +340,7 @@
 <masseditable>1</masseditable>
 </field>
 <field>
-<fieldname>ModifiedTime</fieldname>
+<fieldname>modifiedtime</fieldname>
 <uitype>70</uitype>
 <columnname>modifiedtime</columnname>
 <tablename>vtiger_crmentity</tablename>

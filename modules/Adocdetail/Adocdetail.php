@@ -28,28 +28,36 @@ var $tab_name_index = Array(
 
 var $list_fields = Array (
 'AdocdetailNo'=> Array('adocdetail', 'adocdetailno'),
-'Adoc master'=> Array('adocdetail', 'adoctomaster'),
-'Product'=> Array('adocdetail', 'adoc_product'),
+'Line Nr'=> Array('adocdetail', 'nrline'),
+'adoc_product'=> Array('adocdetail', 'adoc_product'),
+'Quantity'=> Array('adocdetail', 'adoc_quantity'),
+'Price'=> Array('adocdetail', 'adoc_price'),
 'Assigned To' => Array('crmentity','smownerid'));
 
 var $list_fields_name = Array(
 'AdocdetailNo'=>'adocdetailno',
-'Adoc master'=> 'adoctomaster',
-'Product'=> 'adoc_product',
+'Line Nr'=> 'nrline',
+'adoc_product'=> 'adoc_product',
+'Quantity'=> 'adoc_quantity',
+'Price'=> 'adoc_price',
 'Assigned To' => 'assigned_user_id');
 
 var $list_link_field = 'adocdetailno';
 var $search_fields = Array( 
 'AdocdetailNo'=> Array('adocdetail', 'adocdetailno'),
-'Adoc master'=> Array('adocdetail', 'adoctomaster'),
-'Product'=> Array('adocdetail', 'adoc_product'),
-'Assigned To' => Array('crmentity','smownerid'));
+'Line Nr'=> Array('adocdetail', 'nrline'),
+'adoc_product'=> Array('adocdetail', 'adoc_product'),
+'Quantity'=> Array('adocdetail', 'adoc_quantity'),
+'Price'=> Array('adocdetail', 'adoc_price'),
+);
 
 var $search_fields_name = Array( 
 'AdocdetailNo'=>'adocdetailno',
-'Adoc master'=> 'adoctomaster',
-'Product'=> 'adoc_product',
-'Assigned To' => 'assigned_user_id'); 
+'Line Nr'=> 'nrline',
+'adoc_product'=> 'adoc_product',
+'Quantity'=> 'adoc_quantity',
+'Price'=> 'adoc_price',
+); 
 
 var $popup_fields = Array('adocdetailno');
 var $sortby_fields = Array();

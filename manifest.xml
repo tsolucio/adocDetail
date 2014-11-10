@@ -162,7 +162,7 @@
 <columnname>adoc_product</columnname>
 <tablename>vtiger_adocdetail</tablename>
 <generatedtype>1</generatedtype>
-<fieldlabel>Product</fieldlabel>
+<fieldlabel>adoc_product</fieldlabel>
 <readonly>1</readonly>
 <presence>2</presence>
 <defaultvalue></defaultvalue>

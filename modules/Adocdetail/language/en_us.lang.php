@@ -20,6 +20,7 @@ $mod_strings = Array(
 	'AdocdetailNo'=>'AdocdetailNo',
 	'Line Nr'=>'Line Nr',
 	'Product'=>'Product',
+	'adoc_product'=>'Product',
 	'Price'=>'Price',
 	'Assigned To'=>'Assigned To',
 	'Modified Time'=>'Modified Time',

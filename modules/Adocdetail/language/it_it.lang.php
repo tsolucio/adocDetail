@@ -19,6 +19,7 @@ $mod_strings = Array(
         'AdocdetailNo'=>'AdocdetailNo',
         'Line Nr'=>'Linea Nr',
         'Product'=>'Prodotto',
+        'adoc_product'=>'Prodotto',
         'Price'=>'Prezzo',
         'PO Supplier'=>'PO Fornitore',
         'Assigned To'=>'Assegnato a',
@@ -39,7 +40,6 @@ $mod_strings = Array(
         'Description'=>'Descrizione',
         'PO Teknema'=>'PO Teknema',
         'PO Supplier'=>'PO Fornitore',
-        
 );
 
 ?>
